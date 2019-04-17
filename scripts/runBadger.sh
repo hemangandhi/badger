@@ -7,7 +7,7 @@
 trap "exit" INT
 
 # time bound for each run (in seconds):
-time_bound=18000 # 18000 = 5 hours
+time_bound=180 # 18000 = 5 hours (currently 3 min)
 
 # number of experiments
 number_of_runs=1 #5
@@ -28,16 +28,16 @@ server_param="InsertionSortFuzz @@"
 costMetric="jumps"
 
 # Path to afl-fuzz
-pathToAFL=/Users/yannic/repositories/cmu/afl-2.51b/afl-fuzz
+pathToAFL=/home/heman/Documents/undergrad/security/final-proj/afl-2.52b/afl-fuzz
 
 # Path to KelinciWCA interface
-pathToKelinciWCAInterface=/Users/yannic/repositories/cmu/kelinciwca/fuzzerside/interface
+pathToKelinciWCAInterface=/home/heman/Documents/undergrad/security/final-proj/kelinci/fuzzerside/interface
 
 # Path to jpf-core
-pathToJPF=/Users/yannic/repositories/cmu/fuzz-pf/jpf-core
+pathToJPF=/home/heman/Documents/undergrad/security/final-proj/jpf-core
 
 # Path to jpf-symbc
-pathToSPF=/Users/yannic/repositories/cmu/fuzz-pf/jpf-symbc
+pathToSPF=/home/heman/Documents/undergrad/security/final-proj/jpf-symbc
 
 # Path to Badger
 pathToBadger=/Users/yannic/repositories/cmu/badger-source/badger
@@ -103,7 +103,8 @@ do
     server_pid=$!
 
     echo "Starting AFL-WCA.."
-    AFL_SKIP_CPUFREQ=1 AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1 nohup $pathToAFL -i ./in_dir -o ./fuzzer-out -c $costMetric -S afl -t 999999999 $pathToKelinciWCAInterface @@ > ./afl-log.txt &
+    # AFL_SKIP_CPUFREQ=1 AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1 nohup $pathToAFL -i ./in_dir -o ./fuzzer-out -c $costMetric -S afl -t 999999999 $pathToKelinciWCAInterface @@ > ./afl-log.txt &
+    AFL_SKIP_CPUFREQ=1 AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1 nohup $pathToAFL -i ./in_dir -o ./fuzzer-out -S afl -t 999999999 $pathToKelinciWCAInterface @@ > ./afl-log.txt &
     afl_pid=$!
     cd ..
   fi
