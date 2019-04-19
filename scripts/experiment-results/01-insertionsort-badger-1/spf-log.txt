@@ -1,1 +1,77 @@
-Error: Could not find or load main class edu.cmu.sv.badger.app.BadgerRunner
+Run JPF with argument: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/in_dir/example
+[WARNING] unknown classpath element: /home/heman/Documents/undergrad/security/final-proj/badger/badger/build/tests
+Mixed symbolic/concrete execution ...
+symbolic.min_int=0
+symbolic.min_long=-9223372036854775808
+symbolic.min_short=-32768
+symbolic.min_byte=-128
+symbolic.min_char=0
+symbolic.max_int=255
+symbolic.max_long=9223372036854775807
+symbolic.max_short=32767
+symbolic.max_byte=127
+symbolic.max_char=65535
+symbolic.min_double=4.9E-324
+symbolic.max_double=1.7976931348623157E308
+JavaPathfinder core system v8.0 (rev -1) - (C) 2005-2014 United States Government. All rights reserved.
+
+
+====================================================== system under test
+InsertionSortSym.main("/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/in_dir/example")
+
+====================================================== search started: 4/17/19 1:21 PM
+
+====================================================== results
+no errors detected
+
+====================================================== statistics
+elapsed time:       00:00:01
+states:             new=11,visited=0,backtracked=11,end=6
+search:             maxDepth=4,constraints=0
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=5
+heap:               new=396,released=104,maxLive=376,gcCycles=11
+instructions:       3686
+max memory:         117MB
+loaded code:        classes=67,methods=1536
+
+====================================================== search finished: 4/17/19 1:21 PM
+Run JPF with argument: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/fuzzer-out/afl/queue/id:000000#orig:example
+[WARNING] unknown classpath element: /home/heman/Documents/undergrad/security/final-proj/badger/badger/build/tests
+Mixed symbolic/concrete execution ...
+symbolic.min_int=0
+symbolic.min_long=-9223372036854775808
+symbolic.min_short=-32768
+symbolic.min_byte=-128
+symbolic.min_char=0
+symbolic.max_int=255
+symbolic.max_long=9223372036854775807
+symbolic.max_short=32767
+symbolic.max_byte=127
+symbolic.max_char=65535
+symbolic.min_double=4.9E-324
+symbolic.max_double=1.7976931348623157E308
+JavaPathfinder core system v8.0 (rev -1) - (C) 2005-2014 United States Government. All rights reserved.
+
+
+====================================================== system under test
+InsertionSortSym.main("/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/fuzzer-out/afl/queue/id:000000#orig:example")
+
+====================================================== search started: 4/17/19 1:21 PM
+
+====================================================== results
+no errors detected
+
+====================================================== statistics
+elapsed time:       00:00:00
+states:             new=11,visited=0,backtracked=11,end=6
+search:             maxDepth=4,constraints=0
+choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=5
+heap:               new=396,released=104,maxLive=376,gcCycles=11
+instructions:       3686
+max memory:         117MB
+loaded code:        classes=67,methods=1536
+
+====================================================== search finished: 4/17/19 1:21 PM
+[SPF] nothing to process, wait for 60 sec ...
+[SPF] nothing to process, wait for 60 sec ...
+[SPF] nothing to process, wait for 60 sec ...

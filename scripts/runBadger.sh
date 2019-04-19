@@ -40,7 +40,7 @@ pathToJPF=/home/heman/Documents/undergrad/security/final-proj/jpf-core
 pathToSPF=/home/heman/Documents/undergrad/security/final-proj/jpf-symbc
 
 # Path to Badger
-pathToBadger=/Users/yannic/repositories/cmu/badger-source/badger
+pathToBadger=/home/heman/Documents/undergrad/security/final-proj/badger/badger
 
 # Path to Z3
 pathToZ3=$pathToSPF/lib
