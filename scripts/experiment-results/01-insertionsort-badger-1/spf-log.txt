@@ -19,13 +19,13 @@ JavaPathfinder core system v8.0 (rev -1) - (C) 2005-2014 United States Governmen
 ====================================================== system under test
 InsertionSortSym.main("/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/in_dir/example")
 
-====================================================== search started: 4/17/19 1:21 PM
+====================================================== search started: 5/1/19 1:08 PM
 
 ====================================================== results
 no errors detected
 
 ====================================================== statistics
-elapsed time:       00:00:01
+elapsed time:       00:00:00
 states:             new=11,visited=0,backtracked=11,end=6
 search:             maxDepth=4,constraints=0
 choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=5
@@ -34,7 +34,7 @@ instructions:       3686
 max memory:         117MB
 loaded code:        classes=67,methods=1536
 
-====================================================== search finished: 4/17/19 1:21 PM
+====================================================== search finished: 5/1/19 1:08 PM
 Run JPF with argument: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/fuzzer-out/afl/queue/id:000000#orig:example
 [WARNING] unknown classpath element: /home/heman/Documents/undergrad/security/final-proj/badger/badger/build/tests
 Mixed symbolic/concrete execution ...
@@ -56,7 +56,7 @@ JavaPathfinder core system v8.0 (rev -1) - (C) 2005-2014 United States Governmen
 ====================================================== system under test
 InsertionSortSym.main("/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/fuzzer-out/afl/queue/id:000000#orig:example")
 
-====================================================== search started: 4/17/19 1:21 PM
+====================================================== search started: 5/1/19 1:08 PM
 
 ====================================================== results
 no errors detected
@@ -68,10 +68,10 @@ search:             maxDepth=4,constraints=0
 choice generators:  thread=1 (signal=0,lock=1,sharedRef=0,threadApi=0,reschedule=0), data=5
 heap:               new=396,released=104,maxLive=376,gcCycles=11
 instructions:       3686
-max memory:         117MB
+max memory:         147MB
 loaded code:        classes=67,methods=1536
 
-====================================================== search finished: 4/17/19 1:21 PM
+====================================================== search finished: 5/1/19 1:08 PM
 [SPF] nothing to process, wait for 60 sec ...
 [SPF] nothing to process, wait for 60 sec ...
 [SPF] nothing to process, wait for 60 sec ...

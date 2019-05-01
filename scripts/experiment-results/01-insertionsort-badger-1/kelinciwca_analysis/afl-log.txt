@@ -1,7 +1,6 @@
 [0;36mafl-fuzz [1;97m2.52b[0m by <lcamtuf@google.com>
 [1;92m[+] [0mLooks like we're not running on a tty, so I'll be a bit less verbose.[0m
-[1;92m[+] [0mYou have 4 CPU cores and 3 runnable tasks (utilization: 75%).[0m
-[1;92m[+] [0mTry parallel jobs - see docs/parallel_fuzzing.txt.[0m
+[1;92m[+] [0mYou have 4 CPU cores and 5 runnable tasks (utilization: 125%).[0m
 [1;94m[*] [0mChecking CPU core loadout...[0m
 [1;92m[+] [0mFound a free CPU core, binding to #0.[0m
 [1;94m[*] [0mChecking core_pattern...[0m
@@ -26,14 +25,14 @@
 [1;94m[*] [0mAttempting dry run with 'id:000000,orig:example'...[0m
 [1;94m[*] [0mSpinning up the fork server...[0m
 [1;92m[+] [0mAll right - fork server is up.[0m
-[1;90m    len = 65, map size = 1, exec speed = 659 us
+[1;90m    len = 65, map size = 1, exec speed = 463 us
 [0m[1;92m[+] [0mAll test cases processed.[0m
 
 [1;92m[+] [0mHere are some useful stats:
 
 [1;90m    Test case count : [0m1 favored, 0 variable, 1 total
 [1;90m       Bitmap range : [0m1 to 1 bits (average: 1.00 bits)
-[1;90m        Exec timing : [0m659 to 659 us (average: 659 us)
+[1;90m        Exec timing : [0m463 to 463 us (average: 463 us)
 [0m
 [1;92m[+] [0mAll set and ready to roll![0m
 [1;94m[*] [0mEntering queue cycle 1.[0m
@@ -4191,6 +4190,68 @@
 [1;94m[*] [0mEntering queue cycle 2077.[0m
 [1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
 [1;94m[*] [0mEntering queue cycle 2078.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2079.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2080.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2081.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2082.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2083.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2084.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2085.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2086.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2087.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2088.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2089.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2090.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2091.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2092.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2093.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2094.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2095.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2096.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2097.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2098.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2099.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2100.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2101.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2102.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2103.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2104.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2105.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2106.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2107.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2108.[0m
+[1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
+[1;94m[*] [0mEntering queue cycle 2109.[0m
 [1;94m[*] [0mFuzzing test case #0 (1 total, 0 uniq crashes found)...[0m
 [?25h[1;91m
 

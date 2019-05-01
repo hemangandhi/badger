@@ -8,7 +8,7 @@ kelinciPath="/home/heman/Documents/undergrad/security/final-proj/kelinci/instrum
 
 echo "Create KelinciWCA folder and copy files"
 mkdir -p ./kelinciwca_analysis/src
-cp ../badger/src/examples/InsertionSortFuzz.java ./kelinciwca_analysis/src
+cp ../badger/evaluation/07_smart_contract/kelinci_analysis ./kelinciwca_analysis
 mkdir -p ./kelinciwca_analysis/bin
 cp ../badger/build/examples/InsertionSortFuzz.class ./kelinciwca_analysis/bin
 

@@ -12,7 +12,7 @@ import math
 
 # Adjust these parameters
 NUMBER_OF_EXPERIMENTS = 10
-EXPERIMENT_TIMEOUT=18000 #seconds = 5 hours
+EXPERIMENT_TIMEOUT= 180 #18000 #seconds = 5 hours
 STEP_SIZE = 60 # seconds
 
 

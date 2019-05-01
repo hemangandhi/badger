@@ -13,15 +13,18 @@ time_bound=180 # 18000 = 5 hours (currently 3 min)
 number_of_runs=1 #5
 
 # subject
-subject=01-insertionsort
+# subject=01-insertionsort
+subject=07-smart_contract
 
 # folder with binaries
-bin=../example
+# bin=../example
+bin=../evaluation/07_smart_contract
 
 # badger=1, kelinciwca=2, symexe=3
 execution_mode=1
 
 # server parameter
+# server_param="InsertionSortFuzz @@"
 server_param="InsertionSortFuzz @@"
 
 # CostMetric, use "jumps" or "userdefined"

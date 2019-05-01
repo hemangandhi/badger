@@ -17,7 +17,7 @@ time_bound=100 #3600 #3600 = 1 hour
 number_of_runs=1 #5 #5
 
 # folder with sources
-src=/vol/home-vol2/se/nollerya/fuzzing/07-GovernMental
+src=${pwd}/..
 
 # folder for runtime
 target=/vol/home-vol2/se/nollerya/fuzzing/experiments/07-governmental-badger
