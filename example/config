@@ -13,7 +13,7 @@ symexe.wait.sec=60
 symexe.iterations=10
 
 analysis.method=wca
-analysis.wca.metric=jumps
+analysis.wca.metric=userdefined
 analysis.heuristic=highest-cost-lowest-node
 
 io.utils=int-byte-array

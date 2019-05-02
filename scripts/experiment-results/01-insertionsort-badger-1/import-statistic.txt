@@ -1,3 +1,3 @@
 # time, file, cost 
-1556734133,/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/in_dir/example,42.0,score
-1556734133,/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/fuzzer-out/afl/queue/id:000000,orig:example,42.0
+1556773226,/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/in_dir/example,0.0,score
+1556773226,/home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/./kelinciwca_analysis/fuzzer-out/afl/queue/id:000000,orig:example,0.0

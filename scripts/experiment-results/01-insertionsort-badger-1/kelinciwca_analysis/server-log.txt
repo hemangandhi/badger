@@ -1,1 +1,464 @@
-Error: Could not find or load main class edu.cmu.sv.kelinci.Kelinci
+Server listening on port 7007
+Fuzzer runs handler thread started.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Connection closed.
+Handling request 1 of 1
+Request added to queue: true
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Connection closed.
+Handling request 1 of 1
+Request added to queue: true
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection established.
+Request added to queue: true
+Connection closed.
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Sorted: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 10, 0, 0, 0, 0, 0, 0, 0]
+Sorted: [0, 0, 0, 0, 0, 0, 0, 10, 37, 42, 48, 49, 50, 51, 52, 53, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection closed.
+Connection established.
+Request added to queue: true
+Handling request 1 of 1
+Handling request in LOCAL MODE.
+Received path: /home/heman/Documents/undergrad/security/final-proj/badger/scripts/experiment-results/01-insertionsort-badger-1/kelinciwca_analysis/fuzzer-out/afl/.cur_input
+Started...
+Read int array: [37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 10, 0, 0, 0, 0, 0, 0, 0]
+Sorted: [0, 0, 0, 0, 0, 0, 0, 10, 37, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 65, 66, 67, 68, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122]
+Finished!
+Result: 0
+Connection reset.

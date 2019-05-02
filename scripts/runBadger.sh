@@ -13,12 +13,12 @@ time_bound=180 # 18000 = 5 hours (currently 3 min)
 number_of_runs=1 #5
 
 # subject
-# subject=01-insertionsort
-subject=07-smart_contract
+subject=01-insertionsort
+# subject=07-smart_contract
 
 # folder with binaries
-# bin=../example
-bin=../evaluation/07_smart_contract
+bin=../example
+# bin=../evaluation/07_smart_contract
 
 # badger=1, kelinciwca=2, symexe=3
 execution_mode=1
@@ -28,7 +28,7 @@ execution_mode=1
 server_param="InsertionSortFuzz @@"
 
 # CostMetric, use "jumps" or "userdefined"
-costMetric="jumps"
+costMetric="userdefined"
 
 # Path to afl-fuzz
 pathToAFL=/home/heman/Documents/undergrad/security/final-proj/afl-2.52b/afl-fuzz
@@ -102,7 +102,7 @@ do
   then
     cd "./kelinciwca_analysis"
     echo "Starting server.."
-    nohup java -cp ./bin-instrumented/ edu.cmu.sv.kelinci.Kelinci $server_param > ./server-log.txt &
+    nohup java -cp ./bin-instr/ edu.cmu.sv.kelinci.Kelinci $server_param > ./server-log.txt &
     server_pid=$!
 
     echo "Starting AFL-WCA.."
