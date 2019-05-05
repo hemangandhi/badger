@@ -38,7 +38,7 @@ public abstract class CoverageExplorationHeuristic extends ExplorationHeuristic 
             return behaviorListener.didExposeNewBranch();
         }
     };
-    
+
     public static final CoverageExplorationHeuristic BRANCH_COV_LOWEST_NODE = new CoverageExplorationHeuristic(
             "branch-lowest") {
         @Override
@@ -84,7 +84,7 @@ public abstract class CoverageExplorationHeuristic extends ExplorationHeuristic 
             return true;
         }
     };
-    
+
     public static final CoverageExplorationHeuristic BRANCH_COV_LOWEST_NODE_EXPORT_ALL = new CoverageExplorationHeuristic(
             "branch-lowest-all") {
         @Override
